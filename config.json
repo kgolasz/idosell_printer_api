@@ -1,0 +1,7 @@
+{
+    "server" : {
+        "protocol" : "http",
+        "address" : "4230-192-168-20-100.printer.idosell.com",
+        "port" : 8096
+    }
+}
